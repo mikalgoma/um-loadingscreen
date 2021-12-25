@@ -1,9 +1,9 @@
-- 213 error fixed
-- Fix(sql): tinyint
-- Tempfix(client/main.lua)
-- Moved Notification Event for Inventory Wipe
-- Updated all events to the new RegisterNetEvent and got rid of unneeded handlers
-- Whatsapp Messages fix
+- Cayo Perico ajouté
+- Casino ajouté
+- Nouveau systeme de maison
+- Nouveau systeme essence
+- Nouveau systeme LS custom
+- Nouveau telephone bientot
 - Update fxmanifest.lua
-- Added Discord rich
-- Added QBCore doc
+- Nouvel inventaire
+- Nouveau systeme de drogue
